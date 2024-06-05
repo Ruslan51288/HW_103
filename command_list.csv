@@ -92,3 +92,11 @@
    92  git merge develop
    93  git log
    94  history > command_list.csv
+   95  git add .
+   96  git commit -m "Task5"
+   97  git push
+   98  vim .gitignore
+   99  git status
+  100  git add .
+  101  git commit -m "finish"
+  102  history > command_list.csv
